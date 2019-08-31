@@ -1,2 +1,2 @@
 nm = str(input('Pleas enter your name: '))
-print("hello Mr.", nm)
+print("hello Mr.", nm.capitalize())
