@@ -6,3 +6,5 @@ print(sys.thread_info)
 a = 12
 b = 3
 print(a + b)
+
+print(sys.api_version)
